@@ -4,7 +4,7 @@ This **Kanban Task Board** built with **React**, **TypeScript**, **Zustand**, an
 
 ## Live Demo
 
-🔗 [View Live Project](To be updated)
+🔗 [View Live Project](https://kanban-task-board-delta.vercel.app/)
 
 ## Features
 
