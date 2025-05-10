@@ -35,11 +35,6 @@ This **Kanban Task Board** built with **React**, **TypeScript**, **Zustand**, an
 - **Persistence**
   - All data (projects + tasks) saved to `localStorage`
 
-### Optional Bonus Features
-
-- [ ] Light/Dark mode toggle
-- [ ] Due date field with overdue status indicator
-
 ## Tech Stack
 
 - **React** + **TypeScript**
